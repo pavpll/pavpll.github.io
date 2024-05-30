@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>hugo@example.com (Pavel Paliulis)</managingEditor>
     <webMaster>hugo@example.com (Pavel Paliulis)</webMaster>
-    <lastBuildDate>Thu, 30 May 2024 04:02:45 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 05:07:32 +0300</lastBuildDate>
     <atom:link href="https://pavpll.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github</title>
+      <link>https://pavpll.github.io/posts/github/</link>
+      <pubDate>Thu, 30 May 2024 05:07:32 +0300</pubDate><author>hugo@example.com (Pavel Paliulis)</author>
+      <guid>https://pavpll.github.io/posts/github/</guid>
+      <description>Savarankiška užduotis. Naujas puslapis.&#xA;Nuoroda į GitHub: https://github.com/pavpll/pavpll.github.io&#xA;Nuoroda į Nightfall theme puslapį: https://themes.gohugo.io/themes/hugo-theme-cactus/&#xA;Atsitiktinai išrinktos nuotraukos: </description>
+    </item>
     <item>
       <title>Trecias</title>
       <link>https://pavpll.github.io/posts/trecias/</link>
